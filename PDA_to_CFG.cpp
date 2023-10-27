@@ -1,6 +1,4 @@
-/*  C++ code for Conversion from PDA to CFG 
-    AUTHOR = KAPEEL SURYAVANSHI             ENROLLMENT NUMBER = BT16CSE084 */
-    
+
 /*Please Note : The first line of input should be space separated consisting of states of PDA. Its following lines are transitions of PDA 
 whose input is of form δ(q,0,Z) = (q,XZ)*/
 
