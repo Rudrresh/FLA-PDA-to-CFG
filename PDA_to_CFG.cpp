@@ -92,7 +92,7 @@ int main()
     vector<string> temp;
     string line, ch, t;
     ifstream fin;
-    fin.open("C:/Users/asus/Desktop/fla/pda_input5.txt");
+    fin.open("sample inputs/pda_input5.txt");
     if (!fin)
     {
         cerr << "Error in Opening File\n";
