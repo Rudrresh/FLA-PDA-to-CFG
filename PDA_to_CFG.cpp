@@ -92,6 +92,8 @@ int main()
     vector<string> temp;
     string line, ch, t;
     ifstream fin;
+    // change the file path to the path of the input file 
+    // Input file should be .txt
     fin.open("sample input/pda_input5.txt");
     if (!fin)
     {
